@@ -1,9 +1,15 @@
 # IAU-project
 
 ## run env 
-Need to be in folder of env
+Need to be in folder of iau_prj_env
+
+Linux/Mac: 
 ```
 source ./bin/activate
+```
+Win: 
+```
+bin\activate.bat
 ```
 
 ### how to export python packages
