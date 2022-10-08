@@ -12,14 +12,19 @@ Win:
 bin\activate.bat
 ```
 
+### how to install requitemnts
+```
+pip install -r requirements.txt
+```
+
 ### how to export python packages
 ```
 pip freeze > requirements.txt
 ```
 
-### how to install requitemnts
+### how to run notebook
 ```
-pip install -r requirements.txt
+jupyter notebook
 ```
 
 #### create env
