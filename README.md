@@ -12,7 +12,7 @@ Win:
 bin\activate.bat
 ```
 
-### how to install requitemnts
+## how to install requitemnts
 ```
 pip install -r requirements.txt
 ```
@@ -22,12 +22,12 @@ pip install -r requirements.txt
 pip freeze > requirements.txt
 ```
 
-### how to run notebook
+## how to run notebook
 ```
 jupyter notebook
 ```
 
-#### create env
+### create env
 ```
 python3 -m venv iau_prj_env 
 ```
