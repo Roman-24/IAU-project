@@ -12,6 +12,11 @@ Win:
 bin\activate.bat
 ```
 
+### create env
+```
+python3 -m venv iau_prj_env 
+```
+
 ## how to install requitemnts
 ```
 pip install -r requirements.txt
@@ -27,7 +32,3 @@ pip freeze > requirements.txt
 jupyter notebook
 ```
 
-### create env
-```
-python3 -m venv iau_prj_env 
-```
