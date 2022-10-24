@@ -22,6 +22,11 @@ python3 -m venv iau_prj_env
 pip install -r requirements.txt
 ```
 
+## how to instal packages
+```
+python -m pip install [package name]
+```
+
 ### how to export python packages
 ```
 pip freeze > requirements.txt
