@@ -27,6 +27,11 @@ pip install -r requirements.txt
 python -m pip install [package name]
 ```
 
+## how to uninstal packages
+```
+pip uninstall [package name]
+```
+
 ### how to export python packages
 ```
 pip freeze > requirements.txt
